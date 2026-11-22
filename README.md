@@ -93,4 +93,3 @@ parcela da taxa, total do mês e acumulado.
 | Casa, 2 quartos, garagem, 5x | R$ 1.450,00 | 5 x R$ 400,00 | R$ 19.400,00 |
 | Estúdio, 4 vagas, 3x | R$ 1.570,00 | 666,66 / 666,66 / 666,68 | R$ 20.840,00 |
 | Apto, 1 quarto, sem garagem, com crianças, 1x | R$ 700,00 | R$ 2.000,00 | R$ 10.400,00 |
-
