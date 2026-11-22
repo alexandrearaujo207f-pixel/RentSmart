@@ -1,5 +1,5 @@
 # RentSmart - Sistema de Orçamento de Locação (R.M Imóveis)
-
+Video pitch: https://youtu.be/Ut_czGkb97o
 Aplicação em **Python** (com **Programação Orientada a Objetos**) que calcula o
 orçamento de locação de apartamentos, casas e estúdios da R.M Imóveis, mostra um
 resumo detalhado na tela e gera um arquivo **CSV com a projeção dos 12 primeiros meses**.
